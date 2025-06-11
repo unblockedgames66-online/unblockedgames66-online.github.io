@@ -1,3 +1,7 @@
+.navbar-brand.js-scroll-trigger {
+  visibility: hidden;
+}
+
 body {
   font-family: 'Poppins', sans-serif;
   color: rgba(225, 225, 225, 0.6);
