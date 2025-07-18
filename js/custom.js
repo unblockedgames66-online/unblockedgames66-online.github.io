@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", function() {
     document.querySelectorAll('.navbar-brand.js-scroll-trigger').forEach(function(el) {
-        el.innerHTML = '<strong>Unblocked games 6x</strong>';
+        el.innerHTML = '<strong>Unblocked games 66</strong>';
         el.style.visibility = 'visible';
     });
 });
